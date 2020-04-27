@@ -1,0 +1,4 @@
+[
+    { "ParameterKey": "EnvironmentName", "ParameterValue": "Nano02Project" },
+    { "ParameterKey": "LocalIP", "ParameterValue": "1.2.3.4/32" }
+]
